@@ -1704,6 +1704,9 @@ a {
   a:visited {
     text-decoration: none; }
 
+ul {
+  list-style: disc; }
+
 .button, .button-ghost, button, input[type="button"], input[type="submit"] {
   color: white;
   background: #b40101;
@@ -2707,7 +2710,7 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
+  width: 85%;
   margin: 0 auto;
   color: #000; }
 

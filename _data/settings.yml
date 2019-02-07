@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Yuma's Best Real Estate Training
+description: Quincy Smith, a top Real Estate Agent in Yuma, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,20 +14,24 @@ custom_links:
 
 
 client:
-  name:
+  name: Quincy Smith
   title:
   license_number:
   about_markdown: |
+    As a non-native resident to Yuma, AZ, Quincy knew the unique charm and home town feel of our amazing community were right for him to call it home. With more than 15 years of experience with our local real estate market, Quincy brings a breadth of expertise to the team.
 
-  market:
+    Quincy knows first-hand how challenging residential resales can be, and that’s why his experience is so valuable. Since joining the ERA team, he quickly became one our most trusted and top-producing real estate agents in our local market. Quincy attributes this success to passion for people — not pitches and sales techniques. Through his people-first approach, Quincy stepped in as ERA’s coach and trainer in 2016. Now, as the company broker, he works tirelessly on the commitment that led him into the real estate business — helping people succeed.
+
+    Quincy believes that a broker should not compete against their agents but should work full time to support and foster their growth. Quincy has turned his attention to creating an ideal environment for committed agents to create amazing careers that fully support their lives and aspirations.
+  market: Yuma
   brand:
   brokerage:
-  address:
-  phone:
+  address: 2755 S. 4th Ave, 100, Yuma, AZ 85364
+  phone: 928-919-2599
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: quincy@erayuma.com
   url:
 
 lender:
@@ -49,7 +53,7 @@ socials:
   gplus_url:
   youtube_url:
   twitter_url:
-  instagram_url:
+  instagram_url: https://instagram.com/BetterYumaAgent
   pinterest_url:
   zillow_url:
   trulia_url:

@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Yuma Careers
 permalink: /join-our-team/
 ---
 
@@ -15,37 +15,58 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be working at a brokerage or are a newer agent just recently getting started. Perhaps you’ve been in the industry for a couple of years and have been successful thus far, but you find yourself lacking the kind of consistency, income, and support you desire.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>For some people, this can be painful. In fact, a lack of sufficient training, education, and business leads to many agents leaving the industry altogether. Studies show that 87% of real estate agents leave the business within the first five years of getting their license.</p>
+
+<p>Agents like this run out of money, get distracted, and fall flat in their career due to a lack of support. They are unable to generate and convert the consistent flow of qualified leads needed to prosper in the business.</p>
+
+<p>This leads to a lot of uncertainty and stress. People have no idea whether they will see another paycheck after their next contract. And of the insufficient and inconsistent income they may be producing now, how much of it is going right back into paying for marketing expenses, training, and other costs not covered by their brokerage?</p>
+
+<p>The truth is, some agents just aren’t prepared for the industry. On my team, we ensure that our agents are given the tools, systems, training, and support they need to be successful and reach their goals. We hold our agents accountable. When we see potential in an agent, we expect that agent to use it.</p>
+
+<p>My name is Quincy Smith and I’ve been in your shoes. I’ve worked for several real estate companies in the past who didn’t provide the right leadership or have any desire to see me succeed. Once I realized that, I became a student of the business, worked hard, and eventually became a top producer in our local market. I’ve been able to share my knowledge by coaching many agents over the years who are succeeding at a high level in the business. I know what it takes to flourish in our market and how to help you get there.</p>
+
+<p>I have a deep, personal desire to help others succeed. I help them do this through strategy and implementation. I teach you the systems and knowledge necessary to facilitate your success, then help you put that knowledge to work. Strategy + implementation = success.</p>
+
+
+<p>I’m the only broker in town who doesn’t compete against you. My only job is to help you grow your business. If you really want to succeed, the best thing you can do is surround yourself with agents who are taking action and will encourage you to do the same. All you have to do is commit to the process.</p>
+
+<p>I can offer you the following:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>Daily hands-on training</li>
+<li>An environment where taking action is required</li>
+<li>Accountability to make sure you stay on track</li>
+<li>The systems to run an efficient business</li>
+<li>Lead generation and conversion techniques so that you’re never held hostage by a lead provider</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>You could continue at your current pace—making inconsistent income, paying for your own marketing and advertising expenses, and having little freedom in your life and career. You could join a brokerage who over-hypes their training without backing it up. You could also simply quit and take on a 9-to-5 job where you have no flexibility and no fun. Or, you could take the first step on the road to success and join my team.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>From day one, you’ll get to work. You will start a systemized, aggressive 90-day “Take Action Plan” to get you up and running in the shortest time possible.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>The onboarding process will include:
+<ul class="indent">
+<li>Easing you into our training, team schedule, and environment in month one. We will start training you on the fundamentals and have you observe the team in execution.</li>
+<li>Continuing your development of fundamentals in month two, while also creating your personal daily success schedule.</li>
+<li>After 60 days, you will be able to demonstrate a high level of proficiency in the fundamentals, and we will continue practicing daily until you reach a level of mastery. </li>
+</ul></p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>When you apply with us right now, I guarantee that you will realize an increase in business by following our system. If you commit to the system and want to quit due to a lack of results, we will pay your MLS dues for the remainder of the year.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>How long it takes for you to see results from our system really depends on your individual effort. We will teach you effective lead generation techniques and provide you with an environment to take action. We have several new agents who are doing 20+ transactions in their first full year of business.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>Don’t just take my word for it. Jesus, a new agent on our team, came to me at the beginning of 2018. He was sick and tired of his 9-5 job at the school district. He committed to our training, took massive action, and ended up closing over 20 transactions in 2018. He earned about $100,000 and took home about $70,000 of that. He is on track to double his income in 2019.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>Agents on our team are known to thrive. For example, Carolyn joined ERA in 2014 and was looking for a company that provided the structure and environment necessary to help her grow her business. She committed to the process and quickly became one of the top-producing agents in Yuma. Carolyn and her husband, Tim, closed 100 transactions in 2018 and earned approximately $500,000 in gross commission.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>“The best time to plant a tree was 20 years ago. The second-best time is right now.” There is never a perfect time to start in real estate or change companies, but you have an opportunity right now to turn around your life and career. If you are a motivated individual with a track record of success and the drive to meet your goals, please apply today.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>I look forward to talking with you soon.</p>
+
+<p>{{site.data.settings.client.name}}</p>
 
 <p>{{site.data.settings.client.name}}</p>
 
