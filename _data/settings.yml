@@ -26,7 +26,7 @@ client:
   market: Yuma
   brand:
   brokerage:
-  address: 2755 S. 4th Ave, 100, Yuma, AZ 85364
+  address: 2755 S. 4th Ave, 100<br>Yuma, AZ 85364
   phone: 928-919-2599
   phone_type:
   phone2:
@@ -48,11 +48,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/ERA.MattFischerRealtor/
+  linkedin_url: https://www.linkedin.com/in/quincy-smith-823ab973/
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UCHev2PrCChXmyevHEvznfig
+  twitter_url: https://twitter.com/BetterYumaAgent
   instagram_url: https://instagram.com/BetterYumaAgent
   pinterest_url:
   zillow_url:
@@ -78,8 +78,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#920237'
+  theme_color: '#0b3279'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
