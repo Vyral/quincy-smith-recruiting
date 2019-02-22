@@ -68,8 +68,6 @@ permalink: /join-our-team/
 
 <p>{{site.data.settings.client.name}}</p>
 
-<p>{{site.data.settings.client.name}}</p>
-
 
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
