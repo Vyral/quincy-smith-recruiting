@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handling BINSR Forms the Right Way
-date: 2019-05-13 19:38:49
+date: 2019-05-13 19:38:00
 tags:
 excerpt: >-
   BINSR forms are often misunderstood or mismanaged, so today we’ll be sharing
@@ -18,7 +18,7 @@ youtube_code: y8k4SHJocI0
 
 {% include youtube.html %}
 
-Recently I was fortunate enough to speak to Scott Drucker, the head legal advisor for the Arizona Association of Realtors, regarding an important topic: the 8 things to keep in mind when handling Buyer’s Inspection Notice Seller Response (BINSR) forms
+Recently I was fortunate enough to speak to Scott Drucker, the head legal advisor for the Arizona Association of Realtors, regarding an important topic: the 8 things to keep in mind when handling Buyer’s Inspection Notice Seller Response (BINSR) forms.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
