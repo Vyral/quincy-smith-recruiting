@@ -5,9 +5,48 @@
     <description>Quincy Smith, a top Real Estate Agent in Yuma, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Apr 2019 14:13:30 -0500</pubDate>
-    <lastBuildDate>Mon, 08 Apr 2019 14:13:30 -0500</lastBuildDate>
+    <pubDate>Tue, 14 May 2019 09:48:48 -0500</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 09:48:48 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Handling BINSR Forms the Right Way</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/y8k4SHJocI0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Recently I was fortunate enough to speak to Scott Drucker, the head legal advisor for the Arizona Association of Realtors, regarding an important topic: the 8 things to keep in mind when handling Buyer’s Inspection Notice Seller Response (BINSR) forms&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;00:19 - An introduction to today’s guest: Scott Drucker&lt;/p&gt;
+
+&lt;p&gt;01:09 - Why I chose to speak to Scott regarding this topic&lt;/p&gt;
+
+&lt;p&gt;02:34 - Point No. 1: Set realistic expectations&lt;/p&gt;
+
+&lt;p&gt;04:37 - Point No. 2: Only submit a BINSR form once&lt;/p&gt;
+
+&lt;p&gt;05:24 - Point No. 3: Use additional space (if necessary) &lt;/p&gt;
+
+&lt;p&gt;07:17 - Point No. 4: Be ultra-specific&lt;/p&gt;
+
+&lt;p&gt;09:30 - Point No. 5: Don’t ask the seller for additional inspections&lt;/p&gt;
+
+&lt;p&gt;11:00 - Point No. 6: Get timeline extensions in writing&lt;/p&gt;
+
+&lt;p&gt;12:36 - Point No. 7: Include a reason for cancellation if “Premises Rejected” is selected&lt;/p&gt;
+
+&lt;p&gt;15:00 - Point No. 8: Realize that BINSRs are not designed to alter contracts&lt;/p&gt;
+
+&lt;p&gt;17:05 - A quick conclusion to today’s topic&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 May 2019 14:38:49 -0500</pubDate>
+        <link>localhost:4000/handling-binsr-forms-the-right-way.html</link>
+        <guid isPermaLink="true">localhost:4000/handling-binsr-forms-the-right-way.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
