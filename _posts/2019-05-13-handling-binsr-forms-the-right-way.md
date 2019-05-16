@@ -32,6 +32,8 @@ Recently I was fortunate enough to speak to Scott Drucker, the head legal adviso
 
 05:24 - Point No. 3: Use additional space (if necessary)&nbsp;
 
+{% include join-our-team-cta.html %}
+
 07:17 - Point No. 4: Be ultra-specific
 
 09:30 - Point No. 5: Don’t ask the seller for additional inspections
