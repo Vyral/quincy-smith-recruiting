@@ -6,14 +6,14 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url: https://www.eventbrite.com/o/quincy-smith-19787019311
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
 
 post_ctas:
-  events_url:
+  events_url: https://www.eventbrite.com/o/quincy-smith-19787019311
   events_image: /img/events.jpg
   join_our_team_image: /img/join_our_team_full.jpg
 
@@ -52,7 +52,7 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/ERA.MattFischerRealtor/
+  facebook_url: https://www.facebook.com/Yuma-Real-Estate-Mastermind-2256165641338026/
   linkedin_url: https://www.linkedin.com/in/quincy-smith-823ab973/
   gplus_url:
   youtube_url: https://www.youtube.com/channel/UCHev2PrCChXmyevHEvznfig
