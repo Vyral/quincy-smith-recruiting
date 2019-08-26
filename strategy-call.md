@@ -34,20 +34,20 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"The training I receive at ERA Matt Fischer Realtor is absolutely wonderful.  My broker is completely committed to supporting my growth instead of competing against me.  All of the necessary systems, training and leads are provided to me to insure my success." </span><br>
+<span class="author">- Starr Schulte</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"My broker (Quincy Smith) is 100% committed to my success.  He meets with me one-on-one and in group training several times every week.  We are also offered profession coaching through the Mike Ferry organization at no additional cost.  ERA is the company of choice if you want to become a high producing agent."</span><br>
+<span class="author">- Chuy Ibarra</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"What I like most about ERA Matt Fischer Realtor is the environment and accountability I receive and need.  The training/coaching is awesome, but what I really like is the culture of excellence at ERA.  It is so much easier to do what I have to do to succeed when I am held accountable and surrounded by other highly successful agents."</span><br>
+<span class="author">- Craig Hieber</span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
